@@ -1,11 +1,11 @@
 === iframe to embed ===
 Contributors: Bogdan
-Plugin URI: http://sw-galati.ro
-Tags: embed, embed, youtube, vimeo, google-map, google-maps
+Plugin URI: http://sw-galati.ro/iframe-to-embed-plugin/
+Tags: PDF, Iframe, embed, embed, youtube, vimeo, google-map, google-maps
 Author URI: http://sw-galati.ro
 Requires at least: 3.0
 Tested up to: 3.3
-Stable tag: 1.8
+Stable tag: 1.2
 
 You can embed PDF files, objects with [iframe src="http://vimeo.com/123" width="100%" height="480"] shortcode. Objects like mp3 players, video players.
 
@@ -17,8 +17,8 @@ So you can embed object code using this shortcode `[iframe src="http://player.vi
 
 == Changelog ==
 
-= 1.1 beta =
-* beta version;
+= 1.2 stable =
+* stable version;
 
 == Installation ==
 

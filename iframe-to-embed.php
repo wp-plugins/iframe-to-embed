@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: Iframe to Embed
-Plugin URI: none yet, this is a beta version.
+Plugin URI: http://sw-galati.ro/iframe-to-embed-plugin/
 Description:Used for embedding PDF files in posts and pages. The code can be placed inside the visual vindow, not in the HTML window. Plugin transforms iframe code to embed code with [iframe src="http://your-file.pdf" width="100%" height="900"] shortcode.
-Version: 1.1
+Version: 1.2
 Author: sw-galati.ro
 Author Email: sw.galati(at)gmail.com
 Author URI: http://sw-galati.ro/
